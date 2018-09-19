@@ -1,0 +1,14 @@
+C:\Users\eluth\Desktop\Lab1_Part1\Lab1_Part1\obj\Debug\Lab1_Part1.csprojAssemblyReference.cache
+C:\Users\eluth\Desktop\Lab1_Part1\Lab1_Part1\obj\Debug\Lab1_Part1.csproj.CoreCompileInputs.cache
+C:\Users\eluth\Desktop\Lab1_Part1\Lab1_Part1\bin\Debug\Lab1_Part1.exe.config
+C:\Users\eluth\Desktop\Lab1_Part1\Lab1_Part1\bin\Debug\Lab1_Part1.exe
+C:\Users\eluth\Desktop\Lab1_Part1\Lab1_Part1\bin\Debug\Lab1_Part1.pdb
+C:\Users\eluth\Desktop\Lab1_Part1\Lab1_Part1\obj\Debug\Lab1_Part1.exe
+C:\Users\eluth\Desktop\Lab1_Part1\Lab1_Part1\obj\Debug\Lab1_Part1.pdb
+C:\Users\zacke\OneDrive\Desktop\Lab1_Part1\Lab1_Part1\bin\Debug\Lab1_Part1.exe.config
+C:\Users\zacke\OneDrive\Desktop\Lab1_Part1\Lab1_Part1\bin\Debug\Lab1_Part1.exe
+C:\Users\zacke\OneDrive\Desktop\Lab1_Part1\Lab1_Part1\bin\Debug\Lab1_Part1.pdb
+C:\Users\zacke\OneDrive\Desktop\Lab1_Part1\Lab1_Part1\obj\Debug\Lab1_Part1.csprojAssemblyReference.cache
+C:\Users\zacke\OneDrive\Desktop\Lab1_Part1\Lab1_Part1\obj\Debug\Lab1_Part1.csproj.CoreCompileInputs.cache
+C:\Users\zacke\OneDrive\Desktop\Lab1_Part1\Lab1_Part1\obj\Debug\Lab1_Part1.exe
+C:\Users\zacke\OneDrive\Desktop\Lab1_Part1\Lab1_Part1\obj\Debug\Lab1_Part1.pdb
